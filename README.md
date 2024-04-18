@@ -5,4 +5,4 @@ An exercise on applying the pyspark library to run sql queries with caching and 
 Home_Sales.ipynb runs on local environments.  
 Home_Sales_colab.ipynb runs on Google Colab.  
 
-I suggests grading with the colab version since I had an error partitioning locally.
+I suggest grading with the colab version since I had an error partitioning locally.
